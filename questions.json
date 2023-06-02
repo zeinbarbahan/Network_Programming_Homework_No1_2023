@@ -1,0 +1,22 @@
+{
+"1" : ["what is the answer of 3*3","9"],
+"2" : ["what is the answer of 3*5","15"],
+"3" : ["what is the answer of 3+3","6"],
+"4" : ["what is the answer of 31-3","28"],
+"5" : ["what is the answer of 3-3","0"],
+"6" : ["what is the answer of 3**3","27"],
+"7" : ["what is the answer of 4*5","20"],
+"8" : ["what is the answer of 9*9","81"],
+"9" : ["what is the answer of 4+4","8"],
+"10" : ["what is the answer of 5*5","25"],
+"11" : ["what is the answer of 3+13","16"],
+"12" : ["what is the answer of 2+5","7"],
+"13" : ["what is the answer of 8+3","11"],
+"14" : ["what is the answer of 3*7","21"],
+"15" : ["what is the answer of 3*4","12"],
+"16" : ["what is the answer of 3*8","24"],
+"17" : ["what is the answer of 5*6","30"],
+"18" : ["what is the answer of 3-2","1"],
+"19" : ["what is the answer of 3+61","64"],
+"20" : ["what is the answer of 5+9","14"]
+}
